@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyString
+  condition: MyString
+  purchase: MyString
+  reference: MyString
+
+two:
+  name: MyString
+  description: MyString
+  condition: MyString
+  purchase: MyString
+  reference: MyString
